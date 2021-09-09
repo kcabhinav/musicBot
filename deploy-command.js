@@ -7,7 +7,7 @@ const commands = [];
 const commandFiles = fs.readdirSync('./commands').filter(file => file.endsWith('.js'));
 
 // Place your client and guild ids here
-const clientId = '882339733945090048';
+const clientId = '882985056925274142';
 const guildId = '785862890140991508';   //VBTW
 
 
