@@ -1,0 +1,27 @@
+{
+  "name": "vaibot",
+  "version": "1.0.0",
+  "description": "Music bot for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vaiware",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.6.0",
+    "@discordjs/opus": "^0.5.3",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "cowsay": "^1.5.0",
+    "dadjokes-wrapper": "^0.1.4",
+    "discord-api-types": "^0.22.0",
+    "discord-player": "^5.1.0",
+    "discord.js": "^13.1.0",
+    "discordjs-button-pagination": "^2.0.0",
+    "dotenv": "^10.0.0",
+    "ffmpeg-static": "^4.4.0",
+    "figlet": "^1.5.2",
+    "random-facts": "^1.0.6",
+    "time-convert": "^0.0.2"
+  }
+}
